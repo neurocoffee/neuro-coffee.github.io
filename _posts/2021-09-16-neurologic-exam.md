@@ -1,7 +1,7 @@
 ---
 title: Neurologic Exam
 date: 2021-09-16 15:38:00 
-categories: ["Educational Resources"]
+categories: [Educational Resources]
 tags: []     
 ---
 
