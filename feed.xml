@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://neurocoffee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://neurocoffee.github.io/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2021-09-16T19:59:16+00:00</updated><id>https://neurocoffee.github.io/feed.xml</id><title type="html">NeuroCoffee</title><subtitle>A website about brain and its disorders</subtitle><entry><title type="html">Epilepsy</title><link href="https://neurocoffee.github.io/posts/epilepsy/" rel="alternate" type="text/html" title="Epilepsy" /><published>2021-09-16T15:38:00+00:00</published><updated>2021-09-16T19:58:54+00:00</updated><id>https://neurocoffee.github.io/posts/epilepsy</id><content type="html" xml:base="https://neurocoffee.github.io/posts/epilepsy/">&lt;h1 id=&quot;epilepsy&quot;&gt;Epilepsy&lt;/h1&gt;
+
+&lt;h2 id=&quot;eeg&quot;&gt;EEG&lt;/h2&gt;
+&lt;h3 id=&quot;introduction-to-eeg&quot;&gt;Introduction to EEG&lt;/h3&gt;
+&lt;p&gt;1.&lt;a href=&quot;https://www.youtube.com/channel/UCxpmXPBKKB2hVuxgMd6eR3A&quot;&gt;EEG Talks&lt;/a&gt; 
+2.&lt;a href=&quot;https://www.youtube.com/playlist?list=PLxaiR6teSdjoEZWaDWm28A9QjFN7eguAp&quot;&gt;EEG Basics &lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;American Epilepsy Society Free EEG Course&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;eeg-analysis&quot;&gt;EEG analysis&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Automated seizure detection accuracy for ambulatory EEG recordings - &lt;a href=&quot;https://neurology.libsyn.com/website/automated-seizure-detection-accuracy-for-ambulatory-eeg-recordings&quot;&gt;Neurology Podcast&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;surgerical-approaches-to-epilepsy&quot;&gt;Surgerical approaches to epilepsy&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Predicting seizure recurrence via brain networks - &lt;a href=&quot;https://neurology.libsyn.com/website/predicting-seizure-recurrence-via-brain-networks-update-in-epilepsy-part-1&quot;&gt;Neurology Podcast&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Ehsan Tadayon, MD</name></author><category term="Educational Resources" /><summary type="html">Epilepsy</summary></entry><entry><title type="html">Neurologic Exam</title><link href="https://neurocoffee.github.io/posts/neurologic-exam/" rel="alternate" type="text/html" title="Neurologic Exam" /><published>2021-09-16T15:38:00+00:00</published><updated>2021-09-16T19:58:54+00:00</updated><id>https://neurocoffee.github.io/posts/neurologic-exam</id><content type="html" xml:base="https://neurocoffee.github.io/posts/neurologic-exam/">&lt;h1 id=&quot;general-neurologic-exam&quot;&gt;General Neurologic Exam&lt;/h1&gt;
+
+&lt;p&gt;1.&lt;a href=&quot;https://neuroexam.com&quot;&gt;Neuroexam:Companion to Neuroanatomy Through Clincal Cases by Hal Blumenfield&lt;/a&gt;
+2.&lt;a href=&quot;https://informatics.med.nyu.edu/modules/pub/neurosurgery/&quot;&gt;The Precise Neurological Exam by NYU&lt;/a&gt;
+3.[Harrison’s Neuro Exam: Martin Samuel]&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;##Mental status&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;cranial-nerves&quot;&gt;Cranial Nerves&lt;/h2&gt;
+
+&lt;h2 id=&quot;motor&quot;&gt;Motor&lt;/h2&gt;
+
+&lt;p&gt;##Sensory Exam&lt;/p&gt;
+
+&lt;p&gt;##Cerebellar exam and coordination&lt;/p&gt;
+
+&lt;h2 id=&quot;gait&quot;&gt;Gait&lt;/h2&gt;
+&lt;p&gt;1.&lt;a href=&quot;https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&amp;amp;sectionid=192510592&quot;&gt;Harrison’s Video Library of Gait Disorders&lt;/a&gt;
+2.&lt;a href=&quot;https://youtu.be/FFki8FtaByw?list=PLwSvYNYMVnQg6hZhISqns7tWrQT50RCsx&quot;&gt;Stanford 25 Gait Examination&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;#Neurological Exam in Special Cases&lt;/p&gt;
+
+&lt;p&gt;##Coma
+1.&lt;a href=&quot;https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&amp;amp;sectionid=192510624&quot;&gt;Harrison’s Chapter V4: Examination of the comatose patient by Andrew Josephson&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="Educational Resources" /><summary type="html">General Neurologic Exam</summary></entry></feed>
